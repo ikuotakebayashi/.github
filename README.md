@@ -70,6 +70,12 @@ Done
 
 ---
 
+### [MULTI_DEVICE.md](./MULTI_DEVICE.md)
+
+複数PCで同じプロジェクトを安全に開発するための手順。
+
+---
+
 ## Templates
 
 ### Issue Template
