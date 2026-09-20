@@ -5,7 +5,8 @@ about: 開発タスクを登録する
 title: ""
 labels: ""
 assignees: ""
--------------
+
+---
 
 ## 目的
 
