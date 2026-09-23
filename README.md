@@ -195,4 +195,4 @@ GitHub、Issue、Pull Request、README、設計ドキュメントで使用する
 
 ### [GIT_SETUP.md](./GIT_SETUP.md)
 
-Gitセットアップの流れ
+新規プロジェクトのgit手順
