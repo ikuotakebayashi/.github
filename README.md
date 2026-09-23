@@ -190,3 +190,9 @@ Review
 ### [MARKDOWN_CHEATSHEET.md](./MARKDOWN_CHEATSHEET.md)
 
 GitHub、Issue、Pull Request、README、設計ドキュメントで使用するMarkdown記法のチートシート。
+
+---
+
+### [GIT_SETUP.md](./GIT_SETUP.md)
+
+Gitセットアップの流れ
